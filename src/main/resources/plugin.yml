@@ -1,0 +1,7 @@
+name: ${project.artifactId}
+main: ${project.groupId}.Main
+version: ${project.version}
+commands:
+  start:
+    description: Main command.
+    usage: "Je onCommand methode moet nog true returnen!"
